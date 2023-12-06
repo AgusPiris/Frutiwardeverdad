@@ -1,0 +1,38 @@
+body { 
+    background: rgb(255, 145, 0);
+}
+
+.divposta { 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.div { 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    
+    
+}
+
+.div__p {
+    background-color: none;
+    text-shadow:15px 17px 28px 3px rgba(0, 132, 255, 0.63);;
+    
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-size: 25px;
+    letter-spacing: 0.2px;
+    word-spacing: 0.2px;
+    color: #000000;
+    }
+    
+
+
+
+.div_manzana {
+    width: 50%;
+    
+}
